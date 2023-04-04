@@ -1,5 +1,4 @@
-import React from 'react';
-import { useState, FC } from 'react';
+import { useState } from 'react';
 // import logo from './logo.svg';
 import './App.css';
 
